@@ -27,8 +27,8 @@ Due to file size limitations, the dataset is not included in this repository.
 <h3>Sample Output</h3>
 The following example shows the object detection system’s spoken output (via Text-to-Speech) and displayed text in the GUI:
 <img src="sampleoutput.png">
-<b>A Table of gray color, about 31 cm tall, is 0.5 feet away.</b>
-<b>A Mobile phone of black color, about 25 cm tall, is 0.5 feet away.</b>
-<b>A Bottle of black color, about 14 cm tall, is 0.5 feet away.</b>
+<b>A Table of gray color, about 31 cm tall, is 0.5 feet away.</b><br>
+<b>A Mobile phone of black color, about 25 cm tall, is 0.5 feet away.</b><br>
+<b>A Bottle of black color, about 14 cm tall, is 0.5 feet away.</b><br>
 
 
