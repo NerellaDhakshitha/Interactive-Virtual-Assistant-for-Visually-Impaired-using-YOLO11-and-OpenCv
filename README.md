@@ -30,5 +30,13 @@ The following example shows the object detection system’s spoken output (via T
 <b>A Table of gray color, about 31 cm tall, is 0.5 feet away.</b><br>
 <b>A Mobile phone of black color, about 25 cm tall, is 0.5 feet away.</b><br>
 <b>A Bottle of black color, about 14 cm tall, is 0.5 feet away.</b><br>
+<h3>Acknowledgements</h3>
+We would like to thank:<br>
+Ultralytics for the YOLOv8 object detection framework.<br>
+Intel ISL for the MiDaS depth estimation model.<br>
+OpenCV and NumPy for essential computer vision and data processing tools.<br>
+SpeechRecognition and pyttsx3 for enabling voice-based interaction and output.<br>
+Tkinter for providing the GUI framework used in this project.<br>
+
 
 
